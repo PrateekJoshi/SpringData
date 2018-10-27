@@ -19,7 +19,7 @@
 ```
     spring.datasource.url=jdbc:mysql://localhost:3306/mydb
     spring.datasource.username=root
-	spring.datasource.password=password
+    spring.datasource.password=password
 ```
 
 4) Test CRUD operations using JUnit test cases.
