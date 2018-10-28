@@ -28,8 +28,8 @@
 
 ### Spring Data Finder methods
 
-	- Using Spring Data finder methods, we will convert our methods using proper naming conventions to SQL queries.
+- Using Spring Data finder methods, we will convert our methods using proper naming conventions to SQL queries.
 
-	- These methods fill be declared in our entity repository class. 
+- These methods fill be declared in our entity repository class. 
 
-	- [Syntax to follow while naming](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repository-query-keywords)
+- [Syntax to follow while naming](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repository-query-keywords)
